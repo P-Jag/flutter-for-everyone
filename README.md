@@ -11,3 +11,4 @@ A starter kit for those who want to learn Flutter/Dart
 * [Flutter cookbook](https://flutter.dev/docs/cookbook)
 * [Pub.dev](https://pub.dev)
 * [FlutterGems](https://fluttergems.dev)
+* [Flutter Dev Roadmap](https://awesomeopensource.com/project/Tarikul711/flutter-development-roadmap)
