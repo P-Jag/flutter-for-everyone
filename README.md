@@ -1,4 +1,4 @@
-# flutter-for-everyone
+# flutter-starter-kit
 
 A starter kit for those who want to learn Flutter/Dart
 
