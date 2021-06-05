@@ -4,7 +4,19 @@ A starter kit for those who want to learn Flutter/Dart
 
 ## Flutter / Dart
 
+## Basics
+
+## Advanced
+
+## Animations
+
+## Error handling
+
 ## State Management
+
+## Testing
+
+## Other
 
 ## Handy links
 
