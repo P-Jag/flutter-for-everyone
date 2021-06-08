@@ -58,8 +58,8 @@ A starter kit for those who want to learn Flutter/Dart
 
 ## Other
 
-*[TDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Test_Driven_Development_(TDD).md)
-*[DDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Domain-Driven_Design_(DDD).md)
+* [TDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Test_Driven_Development_(TDD).md)
+* [DDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Domain-Driven_Design_(DDD).md)
 
 ### Popular packages
 
