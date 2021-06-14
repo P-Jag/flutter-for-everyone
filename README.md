@@ -26,6 +26,8 @@ A starter kit for those who want to learn Flutter/Dart
 * [Database programming](https://github.com/P-Jag/flutter-starter-kit/blob/main/Advanced/Database_programming.md)
 * [Encryption](https://github.com/P-Jag/flutter-starter-kit/blob/main/Advanced/Encryption.md)
 * [Socket programming](https://github.com/P-Jag/flutter-starter-kit/blob/main/Advanced/Socket_programming.md)
+* [iOS Widget](https://github.com/P-Jag/flutter-starter-kit/blob/main/Advanced/iOS_widget.md)
+* [Notifications](https://github.com/P-Jag/flutter-starter-kit/blob/main/Advanced/Notifications.md)
 
 ## Animations
 
