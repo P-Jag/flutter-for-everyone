@@ -58,7 +58,7 @@ A starter kit for those who want to learn Flutter/Dart
 * [Unit Tests](https://github.com/P-Jag/flutter-starter-kit/blob/main/Testing/Unit_tests.md)
 * [Widget Tests](https://github.com/P-Jag/flutter-starter-kit/blob/main/Testing/Widget_tests.md)
 
-## Other
+## Structure
 
 * [TDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Test_Driven_Development_(TDD).md)
 * [DDD](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Domain-Driven_Design_(DDD).md)
