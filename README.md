@@ -81,3 +81,18 @@ A starter kit for those who want to learn Flutter/Dart
 * [Flutter Dev Roadmap by Tariku](https://awesomeopensource.com/project/Tarikul711/flutter-development-roadmap)
 * [Flutter Dev Roadmap by Oleksandr Leuschenko](https://github.com/olexale/flutter_roadmap?fbclid=IwAR3YsJyFeWzLJL5K-O0ASCjdd7WE-X9SNrY_8wuDwwZNpYwWdFSqUKtjjUk)
 * [Flutter Fix](https://flutter.dev/docs/development/tools/flutter-fix)
+* [Flutter Internals](https://www.didierboelens.com/2019/09/flutter-internals/?fbclid=IwAR13bKPW1yp0vv4atva96ZLlME96cr7n2Ts6prSkR92__AS2biAodVTcZPI)
+
+### Design inspirations
+
+* [Screenlane](https://screenlane.com)
+* [Dribbble](https://dribbble.com)
+* [UI Garage](https://uigarage.net)
+* [Muzli](https://search.muz.li)
+
+### More
+
+* [Public Apis](https://github.com/public-apis/public-apis?fbclid=IwAR1NTZitg3BS0Z159Ize6jVICIl_RxY1W1zwYnDMUDTl7N9OKlTXBhMOcrw)
+* [Understanding Software Engineering](https://dev.to/ankushsinghgandhi/software-engineering-3gbm)
+* [Snippet Generator](https://snippet-generator.app/?fbclid=IwAR3kolKJTMPPlji3rvOg2okETS_xcNqkBfKADk3Xqv9Na7o2-eY8Ys1lcxA)
+* [REST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html?fbclid=IwAR3FK85BIPGXONsL2E60y6zlaEgHnieUS1K6SPpmzbT2e-thzmuLWkXZal0)
