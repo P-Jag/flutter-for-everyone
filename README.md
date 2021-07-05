@@ -65,6 +65,12 @@ A starter kit for those who want to learn Flutter/Dart
 
 ### Popular packages
 
+* [XML2JSON](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Packages/XML2JSON.md)
+* [Dio](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Packages/Dio.md)
+* [Shared Prefenreces](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Packages/Shared_preferences.md)
+* [Http](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Packages/Http.md)
+* [Equatable](https://github.com/P-Jag/flutter-starter-kit/blob/main/Other/Packages/Equatable.md)
+
 ## Handy links
 
 * [Dart docs](https://dart.dev/guides)
