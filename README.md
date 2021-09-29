@@ -41,7 +41,7 @@ A starter kit for those who want to learn Flutter/Dart
 
 ## State Management
 
-* [BLoC/Rx](https://github.com/P-Jag/flutter-starter-kit/blob/main/State_management/BLoC:Rx.md)
+* [BLoC](https://github.com/P-Jag/flutter-starter-kit/blob/main/State_management/BLoC:Rx.md)
 * [Flutter Commands](https://github.com/P-Jag/flutter-starter-kit/blob/main/State_management/Flutter_Commands.md)
 * [GetIt](https://github.com/P-Jag/flutter-starter-kit/blob/main/State_management/GetIt.md)
 * [GetX](https://github.com/P-Jag/flutter-starter-kit/blob/main/State_management/GetX.md)
