@@ -83,12 +83,13 @@ A starter kit for those who want to learn Flutter/Dart
 * [Flutter Fix](https://flutter.dev/docs/development/tools/flutter-fix)
 * [Flutter Internals](https://www.didierboelens.com/2019/09/flutter-internals/?fbclid=IwAR13bKPW1yp0vv4atva96ZLlME96cr7n2Ts6prSkR92__AS2biAodVTcZPI)
 
-### Design inspirations
+### Design
 
 * [Screenlane](https://screenlane.com)
 * [Dribbble](https://dribbble.com)
 * [UI Garage](https://uigarage.net)
 * [Muzli](https://search.muz.li)
+* [Colorsinspo](https://colorsinspo.com)
 
 ### More
 
